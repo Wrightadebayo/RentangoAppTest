@@ -1,0 +1,123 @@
+{
+  "cookies": [
+    {
+      "name": "cf_clearance",
+      "value": "YPzhOaJadY8Cfx1aaT55aIgJgBC_zv9n0sMqep8jEwU-1788186692-1.2.1.1-QTrJuyofTKlvKyq8e1sXOUxTtZQgGZRlnV08FRFAKux2oFmTPqyUYLdppS7HT8Zc0R9tqeYCvgc96El_fVkiXv5Tt9WCf5Jr1DSHw41T5VYvXiMe4UUa2SabHf3R4hVnTX9fN3sUaUTLPnA1il8cAfX9Pqyigkm570IwqopXvXv7ipDL2qG4rtFgnq1XZGl91kmdmeITe.GsvQvQidU1JHnEcdobQXOgCY4DS7f0lfPcFuNMhpwxIxg3Cxrt554WWF8AV2etN_xSca0XjZo_YqpZnrQgQ6_PFk1QALcNWN7LPPXRcfZQKSaVWWtsn0FDuXPQMZhQw8DyvqmBHZKis4v89.TWGNZGSp1M5Nmtw_xF5XaRXKyVgNrwzMeV4uaj5gnrluR3AnIHnnRo9dw9wQ",
+      "domain": ".rentangoafrica.com",
+      "path": "/",
+      "expires": 1819722686.544665,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://rentangoafrica.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1788186688481.205535308328589888",
+      "domain": ".rentangoafrica.com",
+      "path": "/",
+      "expires": 1795962691,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.406349508.1788186689",
+      "domain": ".rentangoafrica.com",
+      "path": "/",
+      "expires": 1822746688.612398,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "fr",
+      "value": "0LUjJrt6u1NxxJYho..BqlZBG...1.0.BqlZBG.",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1795962688.646575,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "___a_aa0@-_user}-_encr_7o3n_#20",
+      "value": "769%7CExz7U2X7CbmX0Imv3ll2Y7yGAfidwfyu853Xl8y020f5e43a",
+      "domain": "rentangoafrica.com",
+      "path": "/",
+      "expires": 1788273089.992755,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_R_CLicu_suer_us7go",
+      "value": "user",
+      "domain": "rentangoafrica.com",
+      "path": "/",
+      "expires": 1788273089.992904,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_B1CL4BV234",
+      "value": "GS2.1.s1788186688$o1$g1$t1788186691$j57$l0$h0",
+      "domain": ".rentangoafrica.com",
+      "path": "/",
+      "expires": 1822746691.521749,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://rentangoafrica.com",
+      "localStorage": [
+        {
+          "name": "___key_me_+_rem",
+          "value": "7d031242bfba0715589283f57f46cd8d:7a929a8edbc15c7ceea767353b846ef35888c525de25aceeb979bc36414c74530c84892dc49eca6db35e8e37af2df9a995ec425d7a6ebe1690afeced833202938327f0f667b0e5d51f2b40da63dea06eafc13ba93d784250d02fc033547073b5"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1788186688436"
+        },
+        {
+          "name": "____**::**ch**a**",
+          "value": "8757eebad0631c377a195057fcdb2318:9a9df2a4c60ed2abe3daf2d2a3a7a068b0eedac09c3dad2938fc6257cf9b428f85e226ae474d623e142c2dee880d376b796e095ee702a3daf9d68511a7854e3a55ee09478f040476ff606eb0536748b8"
+        },
+        {
+          "name": "___cr3a73_l1&&&::",
+          "value": "{\"state\":{\"listings\":null,\"currentListingId\":null,\"lastActiveDraftId\":null,\"currentStep\":\"details\",\"hasHydrated\":true},\"version\":0}"
+        },
+        {
+          "name": "@firebase/performance/configexpire",
+          "value": "1788229888677"
+        },
+        {
+          "name": "l7sting_search_🛖",
+          "value": "{\"state\":{\"query\":{\"sort_by\":\"featured\"}},\"version\":0}"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "@firebase/performance/config",
+          "value": "{\"entries\":{\"fpr_disabled_android_versions\":\"\",\"fpr_disabled_ios_versions\":\"\",\"fpr_disabled_web_versions\":\"\",\"fpr_enabled\":\"true\",\"fpr_experiment_app_start_ttid\":\"true\",\"fpr_log_endpoint_url\":\"https://firebaselogging.googleapis.com/v0cc/log?format=json_proto\",\"fpr_log_source\":\"462\",\"fpr_log_transport_android_percent\":\"100.0\",\"fpr_log_transport_ios_percent\":\"100.0\",\"fpr_log_transport_key\":\"AIzaSyCx80ru6-RXeTi3GvqkFsMVyMf-vpgIoVw\",\"fpr_rl_network_request_event_count_bg\":\"70\",\"fpr_rl_network_request_event_count_fg\":\"700\",\"fpr_rl_time_limit_sec\":\"600\",\"fpr_rl_trace_event_count_bg\":\"30\",\"fpr_rl_trace_event_count_fg\":\"300\",\"fpr_session_gauge_cpu_capture_frequency_bg_ms\":\"0\",\"fpr_session_gauge_cpu_capture_frequency_fg_ms\":\"100\",\"fpr_session_gauge_memory_capture_frequency_bg_ms\":\"0\",\"fpr_session_gauge_memory_capture_frequency_fg_ms\":\"100\",\"fpr_session_max_length_min\":\"240\",\"fpr_vc_fragment_sampling_rate\":\"0.1\",\"fpr_vc_network_request_sampling_rate\":\"1.0\",\"fpr_vc_session_sampling_rate\":\"0.25\",\"fpr_vc_trace_sampling_rate\":\"1.0\"},\"state\":\"UPDATE\",\"templateVersion\":\"1\"}"
+        },
+        {
+          "name": "_____b00L17",
+          "value": "c1a33a7ad499064318d282c6b45cb3e4:c7304c21cc1cf4af3c02d9e09c0718054c2b4952775a1c2d5e010f00b6fa384d026cb20552dcbde672a78bf99285b45bd602dfe25a688acd8619b9ebc1310d9d31129257f61bd444dfce6dff61b392b802b514e8aa43c132db09d1b1224a3625085ae7d52193475ebfc776de30a9e563ed81b76b3e65e36a4a8254cdb6f619313d377e4c36770e9a82191df64287c112bb59bba540b6335d45e75e523f9c21770395c466cbbe4546d0419cc9202327bb1b4a89c54403f9feebb14260b1915ec1966c1c8bd89eb4dc8dc4806ec671cc24b128fb4d46d8966575ba0570805e4e5d57aef8998d8740ca88fc39a10519e33907862a15b96f6078345e480eacee9aeba2e76a10f7713d826cdb204f1865d60de8e53d54f54a473d96e8cd1e5ab455ad57bbe9aa651e51cb85802c55ff80a00c"
+        },
+        {
+          "name": "______@a80h___KYX_++<>_",
+          "value": "93d33bc5c32972d26085ecd031949473:0ad54cc8601bcfd8e443b553373762b2ae717d6c6c8c77c25279c90164af19f12a0a7c9c2651f2becf7724f32125aaec8116c16e181d5ce120aa18d6d2782d53a3c57b88b7d01475d11b5724bbc671fb5154927cc65a9be30b28e45899a0110f642fed4781ac92f4043a64413d8b6633b4078b0d1da080449e83a3ee44d854b22990db6b93039a1e6b9f5ca50cf738e026e8dc177bddfde474efed44a01fadbbf5b1f867d4c4703c45344072e87924e2bb444be798afcfd42c13b52e25ea9e22f05b8ac830a8c9d5676f779e7b11f7f1715b105fdf420b7d4ccdfaf903860ec11820f277c794fdf03f07a42366ac55f97319f78075cb453457e7b24b28d73da937ddbd2cac7ac61f00a79ca76f23c552f3584d9b01011c23daa3116daf90594b4ed7fdd69f897fd5c2b1f3a75a36476897cccc7a570027eba1c41b62f1a0c65c37a7bc03f7bca81bebcd09a08503872a5e7524e3ff976e24ad9cef50a41b93b86bf6b8f3dfeaf5c179cc16ebd53784274b28d3bd685d45d674ac836de29f8eaa1c72f5c54f0d5d8e476c506c2a4bec84425bebc073dd0986c71a0b74e6269f64faef1e52b13f07e9a13049dd21a420d9adc1b52871a3767a2aa77709d467807c9d59c4751eaf5371b5aa9aa7b027178a02e8a2d69bd99411c6791e4608a2e705d9614bf981cb2796f083f099d05f9458df8f0bdf646dc5d25e657aa56098366a9eb926859df30671d06d847830376f9bf9e34007c5abe49e9c2b5126f854b188969214fcbfa470eda1e4e3e38bce3d67be15f8a2c3d0177a537285fe937692ee"
+        }
+      ]
+    }
+  ]
+}
