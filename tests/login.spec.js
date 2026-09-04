@@ -14,7 +14,7 @@ test.beforeAll(async ({ browser }) => {
   await page.goto('https://rentangoafrica.com/');
 
   await page
-    .locator('.whitespace-nowrap.text-base.font-semibold.capitalize.text-fade-blue')
+    .locator("[href='/sign-in']")
     .click();
 
   await page
@@ -48,7 +48,7 @@ test.beforeAll(async ({ browser }) => {
 });
 
 
-test('sign in', async () => {
+test.only('sign in', async () => {
 
   const page = await webContext.newPage();
 
