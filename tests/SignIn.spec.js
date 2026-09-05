@@ -1,22 +1,20 @@
 const { test } = require('@playwright/test');
 
-const { LoginPage } = require('./PageObject/LoginPage');
-const { DashboardPage } = require('./PageObject/DashboardPage');
-const { ProfilePage } = require('./PageObject/ProfilePage');
+const {POManager}= require('./PageObject/POManager');
+const dataset=JSON.parse(JSON.stringify(require('../datafolder/TestData.json')))
 
 test('sign in and update profile', async ({ page }) => {
 
-    const username = 'testafroauto@gmail.com';
-    const password = 'Computer@20';
-
-    const loginPage = new LoginPage(page);
-    const dashboardPage = new DashboardPage(page);
-    const profilePage = new ProfilePage(page);
+    
+   const pom = new POManager(page)
+   const loginPage = pom.getLoginPage();
+    const dashboardPage = pom.getDashboardPage();
+    const profilePage = pom.getProfilePage();
   
     // Login
     await loginPage.goto();
     await loginPage.opensignInLink()
-    await loginPage.ValidLogin(username, password);
+    await loginPage.ValidLogin(dataset.username, dataset.password);
 
     // Dashboard → Settings
     await dashboardPage.openSettings();
