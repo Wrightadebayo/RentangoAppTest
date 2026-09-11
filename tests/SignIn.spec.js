@@ -43,7 +43,7 @@ customtest('customextend', async ({ page, testLoginData}) => {
     await loginPage.ValidLogin(testLoginData.username, testLoginData.password);
 
     // Dashboard → Settings
-    await dashboardPage.openSettings();
+    // await dashboardPage.openSettings();
 
     // Profile page
     await profilePage.uploadProfilePicture();

@@ -9,7 +9,7 @@ class ProfilePage {
         this.profileImage = page.locator("input[type='file']");
 
         this.fullName = page.locator(
-            // "input[placeholder='Enter your full name e.g. John Doe']"
+            "input[placeholder='Enter your full name e.g. John Doe']"
         );
 
         this.nin = page.locator(
